@@ -1,0 +1,8 @@
+.bg-custon {
+    background: rgb(242,123,80);
+background: linear-gradient(90deg, rgba(242,123,80,1) 0%, rgba(242,181,140,1) 23%, rgba(242,211,172,1) 35%, rgba(217,140,160,1) 43%, rgba(212,126,158,1) 45%, rgba(191,69,148,1) 53%, rgba(217,106,147,1) 67%, rgba(115,44,50,1) 85%);
+}
+.nav-brand,
+.nav-link{
+    color: pink;
+}
